@@ -1,0 +1,83 @@
+#important {
+    font-family: 'Oswald';
+    font-weight: bold;
+    font-size: 4rem;
+}
+
+#container {
+    margin-left: 18%;
+    margin-top: 10%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+span {
+    font-family: 'Poppins';
+    font-size: 1.6rem;
+    color: blueviolet;
+}
+
+#intro {
+    font-family: 'Poppins';
+    font-size: 1.5rem;
+}
+
+.images {
+    width: 45%;
+    height: 80%;
+    position: absolute;
+    bottom: 0%;
+    left: 55%;
+}
+
+.pic {
+    border-radius: 50%;
+    border: 10px solid pink;
+}
+
+button {
+    margin-top: 4%;
+    padding: 15px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    border-radius: 25px;
+    border: 1px solid black;
+}
+
+nav {
+    display: flex;
+    width: 84%;
+    margin: auto;
+    padding: 10px;
+    align-items: center;
+    justify-content: space-between;
+    font-family: 'Poppins';
+    font-size: 1.2rem;
+}
+
+nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+    
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #000;
+}
+
+.hero {
+    background-color: palegoldenrod;
+    position: relative;
+
+}
+
+h1 {
+    text-align: center;
+    margin: 50px;
+    font-family: 'Poppins';
+}
