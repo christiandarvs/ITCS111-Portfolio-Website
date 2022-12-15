@@ -73,6 +73,11 @@ nav ul li a {
     color: #000;
 }
 
+nav ul li a:hover {
+    color: whitesmoke;
+    transition: all 0.3s ease 0s;
+}
+
 .hero {
     background-color: lightblue;
     position: relative;
