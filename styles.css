@@ -78,6 +78,28 @@ nav ul li a {
 
 h1 {
     text-align: center;
-    margin: 50px;
+    margin: 1.5%;
     font-family: 'Poppins';
+}
+
+h2 {
+    font-family: 'Poppins';
+    
+}
+
+p {
+    font-family: 'Poppins';
+    margin-top: 25px; 
+}
+
+.box {
+    width: 40%;
+    margin: 0 auto;
+    background-color: lavenderblush;
+    border-radius: 25px;
+    padding: 2%;
+}
+
+#second {
+    margin-top: 3%;
 }
