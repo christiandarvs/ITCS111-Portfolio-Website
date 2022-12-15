@@ -17,7 +17,7 @@
 span {
     font-family: 'Poppins';
     font-size: 1.6rem;
-    color: blueviolet;
+    color: orangered;
 }
 
 #intro {
@@ -35,7 +35,7 @@ span {
 
 .pic {
     border-radius: 50%;
-    border: 10px solid pink;
+    
 }
 
 button {
