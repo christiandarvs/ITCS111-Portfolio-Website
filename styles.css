@@ -17,7 +17,7 @@
 span {
     font-family: 'Poppins';
     font-size: 1.6rem;
-    color: orangered;
+
 }
 
 #intro {
@@ -71,7 +71,7 @@ nav ul li a {
 }
 
 .hero {
-    background-color: palegoldenrod;
+    background-color: lightblue;
     position: relative;
 
 }
@@ -89,17 +89,23 @@ h2 {
 
 p {
     font-family: 'Poppins';
-    margin-top: 25px; 
+    margin-top: 18px; 
+    margin-left: 7%;
+    font-size: 1.2rem;
 }
 
 .box {
     width: 40%;
     margin: 0 auto;
-    background-color: lavenderblush;
+    background-color: aliceblue;
     border-radius: 25px;
     padding: 2%;
 }
 
 #second {
-    margin-top: 3%;
+    margin-top: 2%;
+}
+
+body {
+    background-color: lavender;
 }
