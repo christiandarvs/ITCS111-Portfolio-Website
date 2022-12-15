@@ -112,3 +112,18 @@ p {
 body {
     background-color: lavender;
 }
+
+.twitter {
+    height: 550px;
+    margin-left: 15px;
+}
+
+figure {
+    
+    text-align: center;
+}
+
+.label {
+    text-align: center;
+    margin-bottom: 2%;
+}
